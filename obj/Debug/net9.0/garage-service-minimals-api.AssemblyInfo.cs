@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("garage-service-minimals-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66b1f2bb64bbc2d7f2e2906d8938b819a12061e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("garage-service-minimals-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("garage-service-minimals-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
