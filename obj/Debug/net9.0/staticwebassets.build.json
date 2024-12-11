@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "I+ZdARwd0DEdm2tt8xwc0CaceF78ONDeyUJq0yqcELQ=",
+  "Source": "garage-service-minimals-api",
+  "BasePath": "_content/garage-service-minimals-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
